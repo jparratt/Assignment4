@@ -1,6 +1,6 @@
 #include "XML.h"
 
-
+// just testing the uploading
 XML::XML(istream& is)
 {
 }
